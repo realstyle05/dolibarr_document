@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleGenerateurDocumentsName'
+ModuleGenerateurDocumentsName = GenerateurDocuments
+# Module description 'ModuleGenerateurDocumentsDesc'
+ModuleGenerateurDocumentsDesc = GenerateurDocuments description
+
+#
+# Admin page
+#
+GenerateurDocumentsSetup = GenerateurDocuments setup
+Settings = Settings
+GenerateurDocumentsSetupPage = GenerateurDocuments setup page
+NewSection=New section
+GENERATEURDOCUMENTS_MYPARAM1 = My param 1
+GENERATEURDOCUMENTS_MYPARAM1Tooltip = My param 1 tooltip
+GENERATEURDOCUMENTS_MYPARAM2=My param 2
+GENERATEURDOCUMENTS_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+GenerateurDocumentsAbout = About GenerateurDocuments
+GenerateurDocumentsAboutPage = GenerateurDocuments about page
+
+#
+# Sample page
+#
+GenerateurDocumentsArea = Home GenerateurDocuments
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description

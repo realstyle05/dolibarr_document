@@ -1,0 +1,66 @@
+ul{
+    list-style-type: none;
+}
+
+.PNGtelecharger {
+    width : 15px;
+    margin-left : 20px;
+}
+
+.PNGtelecharger:hover {
+    width : 20px;
+    margin-left : 15px;
+    cursor : pointer;
+}
+
+.PNGplus{
+    width : 15px;
+    margin-right : 5px;
+}
+
+.PNGplus:hover{
+    width : 20px;
+    margin-right: 15px;
+    cursor : pointer;
+}
+
+.PNGmoins{
+    width : 15px;
+    margin-right : 5px;
+}
+
+.PNGmoins:hover{
+    width : 20px;
+    margin-right: 15px;
+    cursor : pointer;
+}
+
+.isSelected{
+    background-color: #e5e5e5;
+    border : #2b2c2e 1px solid;
+}
+
+.hover-image {
+    display: none;
+    width: 20px;
+    margin-left: 10px;
+}
+
+li:hover .hover-image {
+    display: inline;
+}
+
+#popup {
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#buttonPopup {
+
+}
